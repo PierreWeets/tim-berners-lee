@@ -1,6 +1,6 @@
 # tim-berners-lee
 
-click on the link [Tim Berners-lee](https://pierreweets.github.io/tim-berners-lee/index.html){target="_blank" rel="noopener"}.
+click on the link [Tim Berners-lee](https://pierreweets.github.io/tim-berners-lee/index.html).
 
 ## Some explainations about difficulties & solutions:
 
